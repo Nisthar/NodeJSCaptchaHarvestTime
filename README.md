@@ -12,5 +12,5 @@ Works with google? Yep, just run it.
 
 hey maybe I should run it!
 
-# Visit a url with cap:// instead of http(s):// to use
+ Visit a url with cap:// instead of http(s):// to use
 
