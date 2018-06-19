@@ -1,0 +1,12 @@
+{
+  "scripts":
+  {
+    "run" : "node_modules\\electron\\dist\\electron.exe --inspect=5858 main.js"
+  },
+  "name": "Captcha Commander",
+  "version": "1.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^2.0.0"
+  }
+}
